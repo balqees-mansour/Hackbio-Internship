@@ -1,0 +1,56 @@
+
+Introduction
+Differential gene expression refers to the variations in gene expression levels between different biological conditions, such as the comparison between normal and cancerous tissues. These variations are key drivers in cancer development and progression. The two main types of differential gene expression in cancer are upregulation and downregulation.
+Upregulation: This occurs when a gene's expression is higher in cancer cells than in normal cells. Increased expression of certain genes can promote tumor growth and survival.
+Downregulation: This refers to the decreased expression of genes in cancer cells compared to normal cells. Typically, this involves tumor suppressor genes, which normally help prevent uncontrolled cell growth.
+Case in NSCLC
+Non-Small Cell Lung Cancer (NSCLC) is often diagnosed at advanced stages, with approximately two-thirds of cases identified at these later stages. The five-year survival rate for NSCLC is less than 20%, largely due to late-stage detection. Challenges in early detection stem from the difficulty in accessing tumor sites and the variability in the locations where tumors develop (Coakley & Popat, 2020).
+In my study, I utilized DESeq2 to analyze gene expression in NSCLC. The results revealed significant differential expression, including the top 18 upregulated genes, such as RNA5-8SN1, RNA5-8SN5, LOC105373459, and RBMY1A1. Conversely, the top 18 downregulated genes included IGLV2-8, TRIM10, NOMO3, and MIR27A.
+
+
+
+
+
+
+
+
+
+
+
+
+Some plots from my study : 
+The 18 top-up-regulated genes in NCSLC compared to control samples:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The 18 top Down-regulated genes in NCSLC compared to control samples:
+
+
+
+Conclusion
+Differential gene expression is a critical factor in the pathogenesis of NSCLC, influencing both tumor development and progression. Understanding the upregulation and downregulation of specific genes offers insights into potential therapeutic targets and underscores the importance of early detection in improving survival rates for NSCLC patients.
+References
+Hanahan, D., & Weinberg, R. A. (2011). Hallmarks of cancer: The next generation. Cell, 144(5), 646-674.
+Vogelstein, B., Papadopoulos, N., Velculescu, V. E., Zhou, S., Diaz, L. A., & Kinzler, K. W. (2013). Cancer genome landscapes. Science, 339(6127), 1546-1558.
+Esteller, M. (2008). Epigenetics in cancer. New England Journal of Medicine, 358(11), 1148-1159.
+Baylin, S. B., & Jones, P. A. (2016). Epigenetic determinants of cancer. Cold Spring Harbor Perspectives in Biology, 8(9), a019505.
+
