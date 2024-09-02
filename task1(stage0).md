@@ -16,7 +16,8 @@ In my study, I utilized DESeq2 to analyze gene expression in NSCLC. The results 
 **Some plots from my study :** 
 
 **The 18 top-up-regulated genes in NCSLC compared to control samples:**  
-![][image1]
+ ![][image1]
+ 
 
 **The 18 top Down-regulated genes in NCSLC compared to control samples:**  
 ![][image2]
