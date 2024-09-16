@@ -1,0 +1,6 @@
+"Enrichment FDR","nGenes","Pathway Genes","Fold Enrichment","Pathway","URL","Genes"
+0.000413719587377129,3,99,53.3356643356643,"Path:hsa04061 Viral protein interaction with cytokine and cytokine receptor","http://www.genome.jp/kegg-bin/show_pathway?hsa04061 "," CXCL13  CXCL10  CXCL11"
+0.00719843545993555,2,103,34.1762509335325,"Path:hsa04620 Toll-like receptor signaling pathway","http://www.genome.jp/kegg-bin/show_pathway?hsa04620 "," CXCL10  CXCL11"
+0.0014627411985862,3,191,27.6451872734595,"Path:hsa04062 Chemokine signaling pathway","http://www.genome.jp/kegg-bin/show_pathway?hsa04062 "," CXCL13  CXCL10  CXCL11"
+0.00345711439529795,3,294,17.9599686028257,"Path:hsa04060 Cytokine-cytokine receptor interaction","http://www.genome.jp/kegg-bin/show_pathway?hsa04060 "," CXCL13  CXCL10  CXCL11"
+0.0281873299383736,2,232,15.1730769230769,"Path:hsa05171 Coronavirus disease-COVID-19","http://www.genome.jp/kegg-bin/show_pathway?hsa05171 "," CXCL10  C6"
